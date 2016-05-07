@@ -67,7 +67,7 @@
        y="-48.77306" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.7716537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0,15 30.0,0 0,0 32.0,-13.362218 3.3618331,-20.790851 32.0,-32.0 3.6934077,-32.0 19.77478,-46.584718"
+       d="M 0,15 30.0,0 0,0 32.0,-13.362218 3.3618331,-20.790851 32.0,-12 3,-32.0 10,-40"
        id="path4828"
        inkscape:connector-curvature="0" />
   </g>
