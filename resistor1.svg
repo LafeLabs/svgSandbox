@@ -67,7 +67,7 @@
        y="-48.77306" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.7716537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 18.945844,15.733266 32.87198,5.8284202 3.5276209,-2.6319689 32.87198,-13.362218 3.3618331,-20.790851 32.208829,-31.521101 3.6934077,-38.949733 19.77478,-46.584718"
+       d="M 18.945844,15.733266 32.0,5.8284202 3.5276209,-2.6319689 32.0,-13.362218 3.3618331,-20.790851 32.0,-32.0 3.6934077,-32.0 19.77478,-46.584718"
        id="path4828"
        inkscape:connector-curvature="0" />
   </g>
